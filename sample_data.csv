@@ -1,0 +1,20 @@
+Date,Product,Category,Sales,Profit,Quantity,Region
+2025-01-15,iPhone 15,Electronics,1200,300,1,North
+2025-01-16,MacBook Air,Electronics,2000,500,1,East
+2025-01-18,Leather Chair,Furniture,350,80,2,West
+2025-01-20,Ergonomic Desk,Furniture,600,150,1,North
+2025-02-02,iPhone 15,Electronics,2400,600,2,South
+2025-02-10,Java Programming Book,Books,45,15,3,East
+2025-02-15,MacBook Air,Electronics,2000,500,1,West
+2025-03-01,Leather Chair,Furniture,700,160,4,East
+2025-03-05,Data Science Guide,Books,120,40,4,North
+2025-03-12,iPad Pro,Electronics,1000,250,1,South
+2025-03-20,Running Shoes,Sports,150,45,1,West
+2025-04-02,Yoga Mat,Sports,80,25,2,North
+2025-04-10,Ergonomic Desk,Furniture,1200,300,2,East
+2025-04-15,Data Science Guide,Books,30,10,1,South
+2025-04-20,iPhone 15,Electronics,1200,300,1,West
+2025-05-01,Running Shoes,Sports,300,90,2,North
+2025-05-12,iPad Pro,Electronics,2000,500,2,East
+2025-05-25,Leather Chair,Furniture,350,80,1,South
+2025-06-01,Yoga Mat,Sports,120,37,3,West
